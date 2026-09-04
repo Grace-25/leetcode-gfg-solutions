@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -48,4 +49,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0006-zigzag-conversion/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Grace-25/leetcode-gfg-solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
